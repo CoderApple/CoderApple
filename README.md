@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CoderApple
-- 👀 I’m interested in providing some open source programs
-- 🌱 I’m currently learning python and c++
-- 📫 How to reach me Discord: APPLE#1361
+# 👋 Hi, I’m @CoderApple
+- 👨🏻‍🎓 I'm a 1st year student at Bharati Vidyapeeth College of Engineering
+- 👀 I’m interested in becoming a full stack web developer
+- 🌱 I’m currently learning Python, C++, HTML, CSS and Javascript
 
 <!---
 CoderApple/CoderApple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
