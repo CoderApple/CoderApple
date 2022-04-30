@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @CoderApple
+# 👋 Hi, I’m Akshat Singh
 - 👨🏻‍🎓 I'm a 1st year student at Bharati Vidyapeeth College of Engineering
 - 👀 I’m interested in becoming a full stack web developer
 - 🌱 I’m currently learning Python, C++, HTML, CSS and Javascript
