@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akshat Singh
 - 👨🏻‍🎓 I'm a Geek and a Programmer
 - 👀 I’m interested in becoming a Full Stack Web Developer
-- 🌱 I’m currently learning DSA with CPP
+- 🌱 I’m currently learning web development
 - 🤙 [LinkedIn](https://www.linkedin.com/in/akshat-apple/)
 
 <!---
