@@ -1,31 +1,49 @@
 # Hi there, I'm Akshat  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m a MERN Stack Web Developer.
+- 📚 I’m currently learning everything about Data Structures & Algorithms in JAVA.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play brawl stars🎮.
 
 <br />
 
-### 👨‍💻 Languages and Tools
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/akshat-singh-dev/)](https://github.com/akshat-singh-dev/) 
+<h2 align="center">👨‍💻 Languages and Tools</h2>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 
 <br />
 
-<h2 align="center"> Github Statistics 📈 </h2>
+| 🔥 Streak | 📊 Stats |
+| --- | --- |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat-singh-dev&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=akshat-singh-dev&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="100%"> |
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat-singh-dev&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-singh-dev&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/anuraghazra/github-readme-stats)
+[![@akshat04's Holopin board](https://holopin.me/akshat04)](https://holopin.io/@akshat04)
+
+<h2 align="center">📈 Other stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-singh-dev&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true">
+
 
 <!---
 akshat-singh-dev/akshat-singh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
