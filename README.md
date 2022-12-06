@@ -37,12 +37,12 @@
 
 | 🔥 Streak | 📊 Stats |
 | --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat-singh-dev&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=akshat-singh-dev&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="100%"> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat-OwO&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=akshat-OwO&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="100%"> |
 
 [![@akshat04's Holopin board](https://holopin.me/akshat04)](https://holopin.io/@akshat04)
 
 <h2 align="center">📈 Other stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-singh-dev&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-OwO&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true">
 
 
 <!---
