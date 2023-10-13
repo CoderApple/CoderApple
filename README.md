@@ -48,6 +48,7 @@
 <h2 align="center">📈 Other stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-OwO&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true">
 
+![Metrics](https://metrics.lecoq.io/akshat-OwO?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 <!---
 akshat-singh-dev/akshat-singh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
